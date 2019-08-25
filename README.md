@@ -1,6 +1,9 @@
 # wifi-bruteforce
 proof that bruteforcing wifi networks is completely unreasonable -> it's just too slow
 
+# Disclamer
+ - this project is purely done for scientific reasons and penetration-testing practice and has no intention or capabilities to be used for anything else. 
+
 # Requirements
  - osx
  - python > 3.x
